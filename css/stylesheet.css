@@ -1,0 +1,13 @@
+.column {
+  width:10%;
+  float: left;
+}
+
+.nav {
+margin-left: 200px;
+
+}
+
+.guess {
+  text-align: right;
+}
